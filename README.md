@@ -91,8 +91,7 @@ npm install -g newman-reporter-htmlextra
 
 ## Newman Report Summary:
 ### Report Dashboard
-![Newman Report Summary](https://github.com/mamuneee78/API_Test_Automation_Project/blob/main/Newman%20HTML%20report%20dashboard.png)
-
+(https://github.com/imtiazbiplob/Dmoney_api_newman/blob/main/newman_report_dashboard.png)
 ### API Requests
 ![Newman Report Summary](https://github.com/mamuneee78/API_Test_Automation_Project/blob/main/API%20Requests.png)
 
