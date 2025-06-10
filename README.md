@@ -37,7 +37,7 @@ npm install -g newman-reporter-htmlextra
 ```
 
 ## API Documentation:
-- https://docs.google.com/document/d/1YyzPMbEu6eEMFrvp-WHiJW-SvDTJvikqx1QGyyFgRXw/edit?usp=sharing
+- [https://docs.google.com/document/d/1YyzPMbEu6eEMFrvp-WHiJW-SvDTJvikqx1QGyyFgRXw/edit?usp=sharing](https://documenter.getpostman.com/view/43043875/2sB2x5FsAN)
 
 ## Test case list:
 1. ### Token Generate
